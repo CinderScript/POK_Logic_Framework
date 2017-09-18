@@ -1,3 +1,6 @@
+## EDIT: This is not a complete Unity project and cannot be imported using the procedure below.  This is for game logic demonstration only.
+---
+
 # Pawn Of Kings
 Unity 5.5 Project Repository.
 
